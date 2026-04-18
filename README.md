@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Abdul Momin Ali
+# Momin Ali
 
 **Senior Software Engineer · Lead Engineer**  
 *ERP · Banking · Education · Manufacturing · AI & automation*
